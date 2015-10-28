@@ -1,0 +1,2 @@
+# examplesk-mymodule
+my example
